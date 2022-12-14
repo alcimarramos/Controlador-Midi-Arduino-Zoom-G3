@@ -11,6 +11,6 @@ O Pedal 10 também tem a função de Bank Up se pressionado por 1 segundo.<br>
 Fios usei de Fonte de PC<br>
 Caixa de Madeira comprada em Loja de Artesanato, com as medidas:<br>
 36cm de largura, 18cm profundidade e 4,5cm de altura.<br>
-<br><br>
+<br>
 Usei sonda Cobix e ferro de solda da Hikari<br>
 Todo o esquema de ligação das chaves e leds estão bem detalhadas nas imagens.
