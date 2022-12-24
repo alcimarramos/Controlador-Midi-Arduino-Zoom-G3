@@ -16,7 +16,7 @@ Caixa de Madeira comprada em Loja de Artesanato, com as medidas:<br>
 Usei sonda Cobix e ferro de solda da Hikari, é muito bom usar solda e um ferro de boa qualidade.<br>
 Todo o esquema de ligação das chaves e leds estão bem detalhadas nas imagens.
 <br>
-<p><a href="https://youtu.be/XyXns0vm2Yk" target="_blank"><b> ** VÍDEO DE DEMONSTRAÇÃO DO FUNCIONAMENTO ** << </b></a></p>
+<p><a href="https://youtu.be/XyXns0vm2Yk" target="_blank" rel="noopener noreferrer"><b> ** VÍDEO DE DEMONSTRAÇÃO DO FUNCIONAMENTO ** </b></a></p>
 <br>
 <br>
 <img width=698 height=661 src="ESQUEMA%20DE%20LIGAÇÃO%20DOS%20PEDAIS.jpg">
