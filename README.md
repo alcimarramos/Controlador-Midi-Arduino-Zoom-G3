@@ -1,4 +1,4 @@
-# Controlador Midi Arduino Para Pedaleira Zoom-G3
+# Controlador Midi Arduino Para Pedaleira ZOOM G3
 Controlador com <b>10 Pedais</b> para acessar <b>10 Patches</b>.<br>
 O Pedal <b>5</b> também tem a função de <b>Bank Down</b> se pressionado por 1 segundo.<br>
 O Pedal <b>10</b> também tem a função de <b>Bank Up</b> se pressionado por 1 segundo.<br>
