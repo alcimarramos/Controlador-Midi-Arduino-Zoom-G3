@@ -3,6 +3,7 @@
 Controlador com <b>10 Pedais</b> para acessar <b>10 Patches</b>.<br>
 O Pedal <b>5</b> também tem a função de <b>Bank Down</b> se pressionado por 1 segundo.<br>
 O Pedal <b>10</b> também tem a função de <b>Bank Up</b> se pressionado por 1 segundo.<br>
+Usei LEDs programáveis, pela opção de poder usar os 10 em uma única porta Digital do Arduíno, pois com LEDs comuns não daria pra realizar o projeto no UNO.<br>
 <br>
 <b>LISTA DE MATERIAIS:</b><br>
 1 Arduíno UNO<br>
